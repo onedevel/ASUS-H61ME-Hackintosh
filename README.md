@@ -1,5 +1,5 @@
 # ASUS-H61ME-Hackintosh
-
+<pre>
 My Build
 
 OS: macOS Big Sur Beta 4
@@ -10,3 +10,4 @@ GPU: Nvidia Gefore GT710
 SSD: SSD Galax 120GB
 WLAN & Blutooth: WTXUP Broadcom BCM94360CS2wxtup
 OpenCore Version: 0.6.0
+</pre>
